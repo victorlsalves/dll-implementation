@@ -1,6 +1,6 @@
 #include "Fibonacci.h"
 
 int main() {
-    Fibonacci(10);
+    Fibonacci(20);
     return 0;
 }
